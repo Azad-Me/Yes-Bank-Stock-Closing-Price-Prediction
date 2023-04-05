@@ -4,6 +4,9 @@ Yes Bank was a very reputed bank till 2018. After 2018, the bank came under the 
 By predicting the price with the acquinatance of Machine Learning espicially the linear Regression and other regressors, which helped firms and companies.
 In this project the monthly Open,Close,Low and High prices of Yess Bank stock have helped to train the model on which learning occured and then the respective prediction occurs.
 
+## Variables Description
+![image](https://user-images.githubusercontent.com/122529968/229983233-e69f98e3-17f8-43e5-9cbb-f205cd098161.png)
+
 ## Problem Statement
 Yes Bank is well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock proces of the company and whether Time Series models or any other preidictive models can do justice to such situations. This Dataset has monthly stock prices of the bank since its inception and includes closing starting, highest and lowest stock prices of every month. The main ibjective is to predict the stock's price of the month.
 
